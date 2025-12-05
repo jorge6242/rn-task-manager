@@ -2,6 +2,9 @@
 
 A small task manager app built with **React Native**, **TypeScript**, and **Expo**, focused on demonstrating **clean architecture**, **separation of concerns**, **custom hooks**, and **minimal i18n** (EN/ES).
 
+<img width="442" height="948" alt="Captura de pantalla 2025-12-05 a la(s) 6 45 32 p  m" src="https://github.com/user-attachments/assets/2f9bd811-ec40-43ce-9124-3d95948ff238" />
+<img width="444" height="968" alt="Captura de pantalla 2025-12-05 a la(s) 6 44 59 p  m" src="https://github.com/user-attachments/assets/0a8d3c3c-785c-488b-9ac2-0d3d3a99c6cd" />
+
 ---
 
 ## Tech Stack
